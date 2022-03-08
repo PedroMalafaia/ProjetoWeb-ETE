@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(black, white, rgb(124, 121, 121));
+    background-image: linear-gradient(to bottom, black, grey, white, pink);
+
+}
+.home{
+    
+}
+.about {
+    width: auto;
+    padding-left: 90px;
+}
+
+#um{
+    color: rgb(7, 6, 6);
+    font-family: 'Lucida Sans'
+}
+#dois{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#tres{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#quatro{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#cinco{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
